@@ -9,5 +9,6 @@ execute using jenkins
 =====================
 npm install
 npm audit fix --force
+npm install -g pm2
 npm run build
 npm start
